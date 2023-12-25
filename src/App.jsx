@@ -15,19 +15,6 @@ function App() {
     }
   };
 
-  // const [data, setData] = useState(null)
-
-  // const fetchData = async () => {
-  //   const res = await fetch('https://jsonplaceholder.typicode.com/photos')
-  //   const convertData = await res.json();
-  //   setData(convertData);
-  //   console.log(convertData);
-  // }
-
-  // useEffect(() => {
-  //   fetchData();
-  // }, []);
-
   return (
     <>
       <div className='p-5'>
